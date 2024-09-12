@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/class_pkg/class_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/class_pkg/class_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/class_pkg/class_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/class_pkg/class_pkg.egg-info/requires.txt
+writing top-level names to ../../build/class_pkg/class_pkg.egg-info/top_level.txt
+reading manifest file '../../build/class_pkg/class_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/class_pkg/class_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying class_pkg/custom_talker.py -> /home/mech1/Workspaces/course_ws/build/class_pkg/build/lib/class_pkg
+running install
+running install_lib
+copying /home/mech1/Workspaces/course_ws/build/class_pkg/build/lib/class_pkg/custom_talker.py -> /home/mech1/Workspaces/course_ws/install/class_pkg/lib/python3.10/site-packages/class_pkg
+byte-compiling /home/mech1/Workspaces/course_ws/install/class_pkg/lib/python3.10/site-packages/class_pkg/custom_talker.py to custom_talker.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/mech1/Workspaces/course_ws/install/class_pkg/lib/python3.10/site-packages/class_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/class_pkg/class_pkg.egg-info to /home/mech1/Workspaces/course_ws/install/class_pkg/lib/python3.10/site-packages/class_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing custom_talker script to /home/mech1/Workspaces/course_ws/install/class_pkg/lib/class_pkg
+writing list of installed files to '/home/mech1/Workspaces/course_ws/build/class_pkg/install.log'

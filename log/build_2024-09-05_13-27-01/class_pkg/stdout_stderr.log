@@ -1,0 +1,19 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+writing class_pkg.egg-info/PKG-INFO
+writing dependency_links to class_pkg.egg-info/dependency_links.txt
+writing entry points to class_pkg.egg-info/entry_points.txt
+writing requirements to class_pkg.egg-info/requires.txt
+writing top-level names to class_pkg.egg-info/top_level.txt
+reading manifest file 'class_pkg.egg-info/SOURCES.txt'
+writing manifest file 'class_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mech1/Workspaces/course_ws/install/class_pkg/lib/python3.10/site-packages/class-pkg.egg-link (link to .)
+Installing custom_talker script to /home/mech1/Workspaces/course_ws/install/class_pkg/lib/class_pkg
+
+Installed /home/mech1/Workspaces/course_ws/build/class_pkg
+running symlink_data
+symbolically linking /home/mech1/Workspaces/course_ws/build/class_pkg/resource/class_pkg -> /home/mech1/Workspaces/course_ws/install/class_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/mech1/Workspaces/course_ws/build/class_pkg/package.xml -> /home/mech1/Workspaces/course_ws/install/class_pkg/share/class_pkg

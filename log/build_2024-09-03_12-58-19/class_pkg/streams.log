@@ -1,0 +1,24 @@
+[0.657s] Invoking command in '/home/mech1/Workspaces/course_ws/src/class_pkg': PYTHONPATH=/home/mech1/Workspaces/course_ws/build/class_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mech1/Workspaces/course_ws/install/class_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/class_pkg build --build-base /home/mech1/Workspaces/course_ws/build/class_pkg/build install --record /home/mech1/Workspaces/course_ws/build/class_pkg/install.log --single-version-externally-managed install_data
+[0.919s] running egg_info
+[0.920s] writing ../../build/class_pkg/class_pkg.egg-info/PKG-INFO
+[0.920s] writing dependency_links to ../../build/class_pkg/class_pkg.egg-info/dependency_links.txt
+[0.920s] writing entry points to ../../build/class_pkg/class_pkg.egg-info/entry_points.txt
+[0.920s] writing requirements to ../../build/class_pkg/class_pkg.egg-info/requires.txt
+[0.921s] writing top-level names to ../../build/class_pkg/class_pkg.egg-info/top_level.txt
+[0.922s] reading manifest file '../../build/class_pkg/class_pkg.egg-info/SOURCES.txt'
+[0.923s] writing manifest file '../../build/class_pkg/class_pkg.egg-info/SOURCES.txt'
+[0.923s] running build
+[0.923s] running build_py
+[0.923s] copying class_pkg/custom_talker.py -> /home/mech1/Workspaces/course_ws/build/class_pkg/build/lib/class_pkg
+[0.924s] running install
+[0.924s] running install_lib
+[0.924s] copying /home/mech1/Workspaces/course_ws/build/class_pkg/build/lib/class_pkg/custom_talker.py -> /home/mech1/Workspaces/course_ws/install/class_pkg/lib/python3.10/site-packages/class_pkg
+[0.925s] byte-compiling /home/mech1/Workspaces/course_ws/install/class_pkg/lib/python3.10/site-packages/class_pkg/custom_talker.py to custom_talker.cpython-310.pyc
+[0.926s] running install_data
+[0.926s] running install_egg_info
+[0.927s] removing '/home/mech1/Workspaces/course_ws/install/class_pkg/lib/python3.10/site-packages/class_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[0.928s] Copying ../../build/class_pkg/class_pkg.egg-info to /home/mech1/Workspaces/course_ws/install/class_pkg/lib/python3.10/site-packages/class_pkg-0.0.0-py3.10.egg-info
+[0.929s] running install_scripts
+[0.949s] Installing custom_talker script to /home/mech1/Workspaces/course_ws/install/class_pkg/lib/class_pkg
+[0.949s] writing list of installed files to '/home/mech1/Workspaces/course_ws/build/class_pkg/install.log'
+[0.974s] Invoked command in '/home/mech1/Workspaces/course_ws/src/class_pkg' returned '0': PYTHONPATH=/home/mech1/Workspaces/course_ws/build/class_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mech1/Workspaces/course_ws/install/class_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/class_pkg build --build-base /home/mech1/Workspaces/course_ws/build/class_pkg/build install --record /home/mech1/Workspaces/course_ws/build/class_pkg/install.log --single-version-externally-managed install_data

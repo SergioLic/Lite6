@@ -1,0 +1,21 @@
+[1.593s] Invoking command in '/home/mech1/Workspaces/course_ws/build/class_pkg': PYTHONPATH=/home/mech1/Workspaces/course_ws/build/class_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mech1/Workspaces/course_ws/install/class_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/mech1/Workspaces/course_ws/build/class_pkg/build --no-deps symlink_data --force
+[1.891s] running develop
+[1.911s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.911s]   warnings.warn(
+[2.086s] running egg_info
+[2.086s] writing class_pkg.egg-info/PKG-INFO
+[2.095s] writing dependency_links to class_pkg.egg-info/dependency_links.txt
+[2.096s] writing entry points to class_pkg.egg-info/entry_points.txt
+[2.096s] writing requirements to class_pkg.egg-info/requires.txt
+[2.096s] writing top-level names to class_pkg.egg-info/top_level.txt
+[2.097s] reading manifest file 'class_pkg.egg-info/SOURCES.txt'
+[2.098s] writing manifest file 'class_pkg.egg-info/SOURCES.txt'
+[2.099s] running build_ext
+[2.100s] Creating /home/mech1/Workspaces/course_ws/install/class_pkg/lib/python3.10/site-packages/class-pkg.egg-link (link to .)
+[2.100s] Installing custom_talker script to /home/mech1/Workspaces/course_ws/install/class_pkg/lib/class_pkg
+[2.101s] 
+[2.101s] Installed /home/mech1/Workspaces/course_ws/build/class_pkg
+[2.101s] running symlink_data
+[2.101s] symbolically linking /home/mech1/Workspaces/course_ws/build/class_pkg/resource/class_pkg -> /home/mech1/Workspaces/course_ws/install/class_pkg/share/ament_index/resource_index/packages
+[2.101s] symbolically linking /home/mech1/Workspaces/course_ws/build/class_pkg/package.xml -> /home/mech1/Workspaces/course_ws/install/class_pkg/share/class_pkg
+[2.127s] Invoked command in '/home/mech1/Workspaces/course_ws/build/class_pkg' returned '0': PYTHONPATH=/home/mech1/Workspaces/course_ws/build/class_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mech1/Workspaces/course_ws/install/class_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/mech1/Workspaces/course_ws/build/class_pkg/build --no-deps symlink_data --force
